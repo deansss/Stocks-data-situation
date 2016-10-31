@@ -1,5 +1,5 @@
 # Stocks-data-situation
-股票数据表的结构说明
+三秒线股票数据表的结构说明：
             "chWindCode varchar(255)," \股票代码
             "nDate varchar(255)," \日期
             "nTime varchar(255)," \时间
